@@ -8,6 +8,11 @@ body {
   margin: 0;
   font-family: "Montserrat", "Avenir";
 }
+/* ================ Navbar & Footer styles ============== */
+nav,
+footer {
+  background-color: #333d51;
+}
 
 #container {
   max-width: 600px;
